@@ -10,7 +10,8 @@
 
 ## Lessons Learned
 
-its, preatty hard to build and react app for first time.
+its, pretty hard to build and react app for first time.
+
 i think after some time, i will think about how easy react was.
 
 

@@ -5,4 +5,4 @@ import App from "./App";
 ReactDom.render(
     <App/>,
     document.body
-)
+);

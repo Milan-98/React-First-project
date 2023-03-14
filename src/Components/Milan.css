@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    font-weight: 700;
+    font-size: xx-large;
+    align-items: center;
+}
+
+.button{
+    color: cornsilk;
+    border: 2px burlywood dotted;
+    background-color: darkgrey;
+    text-align: center;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}

@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(95, 158, 160, 0.807);
+    height: 100vh;
+    display: grid;
+    align-items: center;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body:hover{
+    background-color:rgb(95, 158, 160) ;
+}
